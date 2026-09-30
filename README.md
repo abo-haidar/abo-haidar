@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Vibe Coder<br>🌱 Muslim
+⚡ Vibe Coder
 
 
 # 💻 Tech Stack:
